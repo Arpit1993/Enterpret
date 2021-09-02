@@ -1,0 +1,51 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #1D2025;
+  color: #ffffff;
+}
+
+
+
+/* <select> styles */
+select {
+  /* Reset */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: 0;
+  outline: 0;
+  font: inherit;
+  /* Personalize */
+  width: 250px;
+  height: 36px;
+  padding: 8px 12px;
+
+  color: white;
+  border-radius: 0.25em;
+  box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  border: 1px solid #404348;
+  background: url(./assets/caret-down.svg) no-repeat right 0.8em center/1.4em;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;  
+  
+  /* <option> colors */
+  /* Remove focus outline */
+  /* Remove IE arrow */
+}
+select > option {
+  color: inherit;
+  background-color: #282828;
+}
+select:focus {
+  outline: none;
+}
+select::-ms-expand {
+  display: none;
+}

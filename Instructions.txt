@@ -1,0 +1,22 @@
+Hi there! My name is Arpit J Soni.
+
+
+Steps: 
+
+1.) Please do npm install so that the dependencies are installed.
+
+2.) After dependencies are installed, please run the command "npm run dev". 
+
+3.) After you run the "npm run dev" command, a new tab in your browser would be opened with the UI. 
+
+
+I've used node v14.16.1. 
+
+Note 1: I've added screenshots of the output in the 'Screenshots' folder.
+
+2: I've recorded video of the output, due to large size (approx 245MB) cannot share the video over mail. I will share the GDrive link with Raveesh once the video is uploaded. 
+
+3: You can reach me at 'miliyearpitse@gmail.com' for any further queries.
+
+Thank You!
+
